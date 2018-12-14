@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544767773 source:c:\users\tharusha  kudagala\documents\cpp\calculator v1.0\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+
